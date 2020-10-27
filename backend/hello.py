@@ -18,6 +18,7 @@ mydb = mysql.connector.connect(
 
 # Index
 #ajbdfaskhdbfsadf
+#sdljfnsaljdf
 @app.route('/')
 def index():
     return render_template('home.html')
