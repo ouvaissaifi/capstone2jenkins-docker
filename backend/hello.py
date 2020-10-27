@@ -115,6 +115,7 @@ def login():
     #return wrap
 
 # Logout
+##hello ouvais saifi
 @app.route('/logout')
 #@is_logged_in
 def logout():
